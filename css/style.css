@@ -1,0 +1,11 @@
+header{
+    min-height: 80vh;
+    background-image: url(https://picsum.photos/3840/2160);
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.text-justify{
+    text-align:justify
+}
